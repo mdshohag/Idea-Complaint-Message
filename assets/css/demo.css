@@ -1,0 +1,85 @@
+/* All styles created for demo purposes only, you may not need this for your project */
+.demo-button button {
+  margin-bottom: 5px;
+}
+
+.demo-icons li {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.demo-icons .lnr,
+.demo-icons .fa {
+  font-size: 28px;
+}
+.demo-icons .cssclass {
+  display: block;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.brand{
+	background-color: #DEE3E9;
+}
+ul.notification .table tr td> li {
+  
+	list-style:none;
+	font-size:17px;
+}
+ul.notification .table tr td{
+    color: #000;
+}
+ul.notification .table tr td> li a:hover{
+	color: #DEE3E9;
+}
+tr.btndefault{
+	
+	background:#DEE3E9 ;
+	
+}
+tr.btnwarning{
+	
+	background:#FFFFFF ;
+	
+}
+.tables{
+	width:100%;
+	font-family:serif;
+}
+
+.subject{
+	border: 1px solid #7cb2bc;
+	border-radius: 5px;
+	padding-top:2px;
+	padding-left:8px;
+	padding-bottom:10px;
+	padding-right:10px;
+	font-size:18px; 
+	font-family:serif;
+}
+.description{
+	border: 1px solid #4CAF50;
+	padding-top:2px;
+	padding-left:8px;
+	padding-bottom:10px;
+	padding-right:10px;
+	font-size:16px; 
+	font-family:serif;
+	text-align: justify;
+	text-justify: inter-word;
+	line-height:28px;
+}
+
+.regard{
+	border: 1px solid #DEE3E9;
+	border-radius: 5px;
+	padding-top:2px;
+	padding-left:8px;
+	padding-bottom:10px;
+	padding-right:10px;
+	font-size:16px; 
+	font-family:serif;
+}
+.commentbox{
+	padding-top:30px;
+
+}
